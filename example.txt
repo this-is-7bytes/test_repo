@@ -1,0 +1,2 @@
+This is a new feature.
+There should be no bugs
